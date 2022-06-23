@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1637298015752" clover="3.2.0">
+  <project timestamp="1637298015752" name="All files">
+    <metrics statements="249" coveredstatements="10" conditionals="51" coveredconditionals="2" methods="95" coveredmethods="3" elements="395" coveredelements="15" complexity="0" loc="249" ncloc="249" packages="4" files="26" classes="26"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/App.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="226" coveredstatements="10" conditionals="51" coveredconditionals="2" methods="86" coveredmethods="3"/>
+      <file name="CheckboxField.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/CheckboxField.jsx">
+        <metrics statements="4" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="CreateListingBody.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/CreateListingBody.jsx">
+        <metrics statements="19" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="240" count="0" type="stmt"/>
+        <line num="312" count="0" type="stmt"/>
+      </file>
+      <file name="EditListingBody.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/EditListingBody.jsx">
+        <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+      <file name="FilterArea.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/FilterArea.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+      </file>
+      <file name="Footer.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/Footer.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="HomeBody.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/HomeBody.jsx">
+        <metrics statements="19" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+      </file>
+      <file name="ListingItem.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/ListingItem.jsx">
+        <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="Login.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/Login.jsx">
+        <metrics statements="20" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="10" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+      </file>
+      <file name="MessageModal.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/MessageModal.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="ModalDisplaySearchFilter.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/ModalDisplaySearchFilter.jsx">
+        <metrics statements="40" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="78" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="119" count="0" type="stmt"/>
+      </file>
+      <file name="MyListingItem.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/MyListingItem.jsx">
+        <metrics statements="23" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+      </file>
+      <file name="MyListingsBody.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/MyListingsBody.jsx">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+      <file name="NavBar.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/NavBar.jsx">
+        <metrics statements="22" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="11" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="134" count="0" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+      </file>
+      <file name="NavBarGoHome.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/NavBarGoHome.jsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="SearchField.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/SearchField.jsx">
+        <metrics statements="14" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+      <file name="SignUp.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/components/SignUp.jsx">
+        <metrics statements="21" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="14" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="CreateListingPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/CreateListingPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="EditListingPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/EditListingPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="HomePage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/HomePage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="LoginPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/LoginPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="MyListingsPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/MyListingsPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="NotFoundPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/NotFoundPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="RegisterPage.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/pages/RegisterPage.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Store.jsx" path="/Users/luozheng/Desktop/2021/T3/COMP6080/ass3.nosync/frontend/src/utils/Store.jsx">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
